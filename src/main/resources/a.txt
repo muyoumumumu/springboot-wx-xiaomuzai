@@ -1,0 +1,35 @@
+
+15:30:31 DAT --->
+[TCP] 127.0.0.1:50754 <554>
+POST
+/?
+signature=f171aea6c69db68d0daf5b4b200a1078e9d6c2e5
+&timestamp=1554190233
+&nonce=185925252
+&openid=omsl2wZdWcBkTh5G7YG58Bqf5FJw
+
+HTTP/1.1..User-Agent: Mozilla/4.0..Accept: */*..
+Host: 118.24.154.243..
+Pragma: no-cache..Content-Length: 288..Content-Type: text/xml
+....
+<xml>
+    <ToUserName>
+        <![CDATA[gh_2f005f112f5e]]>
+    </ToUserName>
+    .
+    <FromUserName>
+        <![CDATA[omsl2wZdWcBkTh5G7YG58Bqf5FJw]]>
+    </FromUserName>
+    .
+    <CreateTime>1554190233</CreateTime>
+    .
+    <MsgType>
+        <![CDATA[text]]>
+    </MsgType>
+    .
+    <Content>
+        <![CDATA[hellooooooooooooo]]>
+    </Content>
+
+    <MsgId>22250655535320527</MsgId>
+.</xml>
